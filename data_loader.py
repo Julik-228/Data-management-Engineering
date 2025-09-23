@@ -7,4 +7,4 @@ file_url = f"https://drive.google.com/uc?export=download&id={FILE_ID}"
 
 response = requests.get(file_url)
 raw_data = pd.read_csv(StringIO(response.text))
-print(raw_data.head(10))
+# print(raw_data.head(10))
