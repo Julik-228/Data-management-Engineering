@@ -26,7 +26,7 @@ MANIFEST
 env/
 ENV/
 venv/
-itmo_engineering/ 
+itmo_engineering/
 
 # IDEs and editors
 .vscode/
@@ -44,3 +44,6 @@ Thumbs.db
 
 # Temporary files
 temp_file.csv
+
+# Datasets
+data/
