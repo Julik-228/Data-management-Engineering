@@ -4,7 +4,6 @@ from io import StringIO
 
 from data_loader import raw_data, file_url
 
-
 response = requests.get(file_url)
 raw_data = pd.read_csv(StringIO(response.text))
 # print(raw_data.head(10))
