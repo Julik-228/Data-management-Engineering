@@ -22,6 +22,10 @@
 - `requests` - для выполнения HTTP-запросов.
 - `pandas` - для работы с табличными данными.
 
+## Пример вывода
+<img width="994" height="256" alt="image" src="https://github.com/user-attachments/assets/20bc397f-7e12-4f5c-85b1-5ec66fe23727" />
+
+
 ## Источник данных
 Скрипт парсит данные с [этой страницы](https://shop.ritual.ru/catalog/groby/elitnye_groby/).
 
