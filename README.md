@@ -96,7 +96,7 @@ Data-management-Engineering/
 
 ## Пример вывода скрипта
 
-**Домашнее задание №2**: <img width="1150" height="291" alt="image" src="https://github.com/user-attachments/assets/3fc164d9-4047-4271-bb18-cee4129a2038" />
+<img width="1150" height="291" alt="image" src="https://github.com/user-attachments/assets/3fc164d9-4047-4271-bb18-cee4129a2038" />
 
 ## Зависимости
 
