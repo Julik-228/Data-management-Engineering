@@ -67,6 +67,10 @@ curl -H "Accept: application/json" https://icanhazdadjoke.com/
 }
 ```
 
+Пример вывода программы:
+<img width="1368" height="889" alt="image" src="https://github.com/user-attachments/assets/7c70cfc7-e4c3-4958-8ead-25bec082522e" />
+
+
 ## Благодарности
 
 API предоставлено [icanhazdadjoke](https://icanhazdadjoke.com/api).
