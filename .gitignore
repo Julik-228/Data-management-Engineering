@@ -47,3 +47,4 @@ temp_file.csv
 
 # Datasets
 data/
+src/creds.db
