@@ -28,6 +28,7 @@ print(f'url = {url}')
 print(f'port = {port}')
 print(f'dbname = {dbname}')
 print(f'user = {user}')
+print(f'password = {"*" * len(password)}')
 
 # postgreesql 
 print('\nПодключение к PostgreSQL')
