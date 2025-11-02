@@ -68,19 +68,19 @@ def run(
     Примеры:
     \b
     # Только загрузка из Google Drive
-    $ python main.py run extract --file-id abcd1234
+    $ python main.py extract --file-id abcd1234
 
     \b
     # Только трансформация локального CSV
-    $ python main.py run transform --csv-path data/my.csv
+    $ python main.py transform --csv-path data/my.csv
 
     \b
     # Загрузка в PostgreSQL через credentials
-    $ python main.py run load --table-name my_table --creds-db creds.db
+    $ python main.py load --table-name my_table --creds-db creds.db
 
     \b
     # Полный pipeline с загрузкой в локальный SQLite
-    $ python main.py run all --file-id abcd1234 --table-name my_table
+    $ python main.py all --file-id abcd1234 --table-name my_table
     """
     """Run ETL stage. stage is required. When omitted Typer shows help.
 
